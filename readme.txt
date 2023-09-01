@@ -1,5 +1,6 @@
 [![obsolete JetBrains project](https://jb.gg/badges/obsolete-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
+
 Experimental trigger for pull-request */merge branches.
 
 Github creates pull-request merge branches (refs/heads/*/merge) for
